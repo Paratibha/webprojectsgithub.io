@@ -1,0 +1,41 @@
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gourmet Bistro</title>
+  <link rel="stylesheet" href="styles.css">
+
+<body>
+<FONT FACE="ALGERIAN" COLOR="RED" SIZE="20 ALIGN="CENTRE">
+<H1> PARIS RESTAURANT</H1>
+<IMG src="C:\Users\Shyam Sundar Yadav\Pictures\Saved Pictures\oo.jpg" align="centre">
+</FONT>
+  <header>
+    <nav>
+      <ul>
+<FONT SIZE="16">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="delivery inspections.html">Delivery Inspections</a></li>
+        <li><a href="feedback.html">Feedback </a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+<FONT="IMPACT" COLOR="MAROON"SIZE="12">
+    <h3>WELCOME TO PARIS RESTUARANT <BR>
+  (NEAR-LALPUR CHOWK,HAZARIBAGH, Ph:9199XXXX43)</h3>
+
+    <p>Your favorite place for delicious meals made from the freshest ingredients.</p></FONT>
+    <a href="menu.html" class="cta-button">Explore Our Menu</a>
+  </main>
+
+  <footer>
+    <p>@2024 PARIS RESTAURANT. All rights reserved.</p>
+  </footer>
+</body>
+</html>
